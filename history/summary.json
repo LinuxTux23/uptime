@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "cloud-server-draco",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-29": 25
+      "2023-08-29": 26
     }
   },
   {
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "storage-box-mcloud",
     "status": "up",
-    "uptime": "1.18%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "1.18%",
-    "uptimeYear": "1.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1230,
     "timeDay": 1230,
     "timeWeek": 1230,
     "timeMonth": 1230,
     "timeYear": 1230,
-    "dailyMinutesDown": {
-      "2023-08-29": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
