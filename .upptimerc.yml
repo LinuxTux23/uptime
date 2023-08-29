@@ -13,7 +13,6 @@ sites:
 
   - name: Cloud Server @ Draco
     url: https://$DRACO_SERVER_IP
-    __dangerous__disable_verify_peer
 
   - name: Storage Box @ Mcloud
     url: https://$MCLOUD_SERVER_HOST
