@@ -16,6 +16,8 @@ sites:
 
   - name: Storage Box @ Mcloud
     url: https://$MCLOUD_SERVER_HOST
+    expectedStatusCodes:
+      - 401
 status-website:
   cname: status.benedikt.tech
   logoUrl: https://raw.githubusercontent.com/LinuxTux23/uptime/master/assets/logo_circle_web.png
