@@ -19,7 +19,7 @@ sites:
 status-website:
   cname: status.benedikt.tech
   logoUrl: https://raw.githubusercontent.com/LinuxTux23/uptime/master/assets/logo_circle_web.png
-  name: Upptime
+  name: Uptime
   introTitle:
   introMessage:
   navbar:
