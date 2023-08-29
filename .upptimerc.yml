@@ -14,6 +14,9 @@ sites:
   - name: Cloud Server @ Draco
     url: https://$DRACO_SERVER_IP
     __dangerous__disable_verify_peer
+
+  - name: Storage Box @ Mcloud
+    url: https://$MCLOUD_SERVER_HOST
 status-website:
   cname: status.benedikt.tech
   logoUrl: https://raw.githubusercontent.com/LinuxTux23/uptime/master/assets/logo_circle_web.png
