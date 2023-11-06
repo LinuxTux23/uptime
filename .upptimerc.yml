@@ -2,20 +2,20 @@ owner: linuxtux23
 repo: uptime
 
 sites:
-  - name: Primary Domain @ Draco
+  - name: Primary Domain
     url: https://benedikt.tech
 
-  - name: Secondary Domain @ Draco
+  - name: Secondary Domain
     url: https://benedikt-lohse.dev
 
-  - name: Nextcloud @ Draco
+  - name: Nextcloud @ VPS
     url: https://cloud.benedikt.tech
 
-  - name: Cloud Server @ Draco
+  - name: VPS
     url: https://${{ secrets.draco_server_ip }}
 
-  - name: Storage Box @ Mcloud
-    url: https://$MCLOUD_SERVER_HOST
+  - name: Storage Box
+    url: https://${{ secrets.mcloud_server_ip }}
     expectedStatusCodes:
       - 401
 status-website:
