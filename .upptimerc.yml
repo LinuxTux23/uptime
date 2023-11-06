@@ -12,7 +12,7 @@ sites:
     url: https://cloud.benedikt.tech
 
   - name: Cloud Server @ Draco
-    url: https://$DRACO_SERVER_IP
+    url: https://${{ secrets.draco_server_ip }}
 
   - name: Storage Box @ Mcloud
     url: https://$MCLOUD_SERVER_HOST
