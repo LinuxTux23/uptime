@@ -1,0 +1,7 @@
+url: https://${{ secrets.draco_server_ip }}
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-06T21:21:33.690Z
+startTime: 2023-11-06T21:21:33.683Z
+generator: Upptime <https://github.com/upptime/upptime>
