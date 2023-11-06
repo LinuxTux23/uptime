@@ -8,16 +8,19 @@ sites:
   - name: Secondary Domain
     url: https://benedikt-lohse.dev
 
-  - name: Nextcloud @ VPS
+  - name: Nextcloud
     url: https://cloud.benedikt.tech
 
-  - name: VPS
-    url: https://${{ secrets.draco_server_ip }}
+  - name: Draco
+    url: http://$DRACO_SERVER_IP
+    expectedStatusCodes:
+      - 400
 
   - name: Storage Box
-    url: https://${{ secrets.mcloud_server_ip }}
+    url: https://$MCLOUD_SERVER_IP
     expectedStatusCodes:
       - 401
+      
 status-website:
   cname: status.benedikt.tech
   logoUrl: https://raw.githubusercontent.com/LinuxTux23/uptime/master/assets/logo_circle_web.png
