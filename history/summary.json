@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/benedikt.tech.ico",
     "slug": "primary-domain",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 528,
     "timeDay": 720,
     "timeWeek": 582,
     "timeMonth": 528,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2023-11-17": 4
+      "2023-11-17": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://benedikt-lohse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/benedikt-lohse.dev.ico",
     "slug": "secondary-domain",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 519,
-    "timeDay": 619,
-    "timeWeek": 542,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2106,
+    "timeDay": 11678,
+    "timeWeek": 3316,
+    "timeMonth": 2106,
+    "timeYear": 2106,
     "dailyMinutesDown": {
-      "2023-11-17": 2
+      "2023-11-17": 4
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://cloud.benedikt.tech",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.benedikt.tech.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 837,
-    "timeWeek": 791,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 816,
+    "timeDay": 717,
+    "timeWeek": 767,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-11-17": 1
+      "2023-11-17": 3
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "http://$DRACO_SERVER_IP",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "draco",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 319,
-    "timeWeek": 266,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 241,
+    "timeDay": 251,
+    "timeWeek": 256,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 2
     }
   },
   {
