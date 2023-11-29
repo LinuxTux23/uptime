@@ -4,19 +4,19 @@
     "url": "https://benedikt.tech",
     "icon": "https://icons.duckduckgo.com/ip3/benedikt.tech.ico",
     "slug": "primary-domain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 5256,
-    "timeWeek": 1634,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 820,
+    "timeDay": 3629,
+    "timeWeek": 1494,
+    "timeMonth": 820,
+    "timeYear": 820,
     "dailyMinutesDown": {
-      "2023-11-29": 0
+      "2023-11-29": 5
     }
   },
   {
