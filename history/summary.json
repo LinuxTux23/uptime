@@ -22,9 +22,9 @@
     "url": "https://benedikt-lohse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/benedikt-lohse.dev.ico",
     "slug": "secondary-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 499,
     "timeMonth": 1291,
     "timeYear": 1291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-01": 0
+    }
   },
   {
     "name": "Nextcloud",
