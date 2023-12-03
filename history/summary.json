@@ -4,19 +4,19 @@
     "url": "https://benedikt.tech",
     "icon": "https://icons.duckduckgo.com/ip3/benedikt.tech.ico",
     "slug": "primary-domain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 212,
-    "timeWeek": 1356,
-    "timeMonth": 749,
-    "timeYear": 749,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 738,
+    "timeDay": 271,
+    "timeWeek": 1268,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 6
     }
   },
   {
@@ -26,7 +26,7 @@
     "slug": "secondary-domain",
     "status": "up",
     "uptime": "90.79%",
-    "uptimeDay": "17.54%",
+    "uptimeDay": "17.97%",
     "uptimeWeek": "64.66%",
     "uptimeMonth": "90.79%",
     "uptimeYear": "90.79%",
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.benedikt.tech.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 724,
     "timeDay": 331,
     "timeWeek": 631,
     "timeMonth": 724,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-12-03": 5
+      "2023-12-03": 12
     }
   },
   {
