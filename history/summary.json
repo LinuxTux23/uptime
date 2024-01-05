@@ -16,7 +16,7 @@
     "timeMonth": 61,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-01-05": 683,
+      "2024-01-05": 687,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -99,19 +99,19 @@
     "url": "http://$DRACO_SERVER_IP",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "draco",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 186,
-    "timeWeek": 240,
-    "timeMonth": 245,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 240,
+    "timeDay": 187,
+    "timeWeek": 233,
+    "timeMonth": 243,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 5
     }
   },
   {
@@ -121,9 +121,9 @@
     "slug": "storage-box",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 713,
     "timeDay": 523,
@@ -131,7 +131,6 @@
     "timeMonth": 678,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-01-05": 5,
       "2023-11-06": 17
     }
   }
