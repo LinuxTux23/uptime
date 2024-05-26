@@ -8,9 +8,6 @@ sites:
   - name: Secondary Domain
     url: https://benedikt-lohse.dev
 
-  - name: Nextcloud
-    url: https://cloud.benedikt.tech
-
   - name: Draco
     url: http://$DRACO_SERVER_IP
     expectedStatusCodes:
