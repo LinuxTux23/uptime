@@ -1,7 +1,7 @@
 url: https://$MCLOUD_SERVER_IP
 status: up
 code: 401
-responseTime: 570
-lastUpdated: 2024-08-05T23:06:03.677Z
+responseTime: 498
+lastUpdated: 2024-08-06T23:05:35.879Z
 startTime: 2023-11-06T21:21:36.349Z
 generator: Upptime <https://github.com/upptime/upptime>
