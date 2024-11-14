@@ -1,7 +1,7 @@
 url: http://$DRACO_SERVER_IP
 status: up
 code: 400
-responseTime: 199
-lastUpdated: 2024-11-13T23:05:21.626Z
+responseTime: 302
+lastUpdated: 2024-11-14T23:06:11.024Z
 startTime: 2023-11-06T21:38:13.383Z
 generator: Upptime <https://github.com/upptime/upptime>
