@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benedikt.tech.ico",
     "slug": "primary-domain",
     "status": "up",
-    "uptime": "85.40%",
+    "uptime": "85.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.72%",
-    "time": 506,
-    "timeDay": 808,
-    "timeWeek": 987,
+    "uptimeYear": "92.99%",
+    "time": 507,
+    "timeDay": 1080,
+    "timeWeek": 1039,
     "timeMonth": 878,
-    "timeYear": 529,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2024-02-04": 863,
       "2024-02-03": 1440,
@@ -39,8 +39,7 @@
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
-      "2024-01-12": 1440,
-      "2024-01-11": 1440
+      "2024-01-12": 1440
     }
   },
   {
@@ -54,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 713,
-    "timeDay": 922,
-    "timeWeek": 1151,
-    "timeMonth": 1215,
-    "timeYear": 693,
+    "time": 715,
+    "timeDay": 1434,
+    "timeWeek": 1219,
+    "timeMonth": 1085,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2024-03-14": 30
     }
@@ -75,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 229,
-    "timeWeek": 252,
+    "timeDay": 331,
+    "timeWeek": 273,
     "timeMonth": 230,
     "timeYear": 231,
     "dailyMinutesDown": {}
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 596,
-    "timeWeek": 692,
-    "timeMonth": 697,
-    "timeYear": 668,
+    "time": 675,
+    "timeDay": 743,
+    "timeWeek": 727,
+    "timeMonth": 694,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2024-11-07": 24,
       "2024-04-17": 16
