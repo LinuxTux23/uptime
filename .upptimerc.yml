@@ -2,41 +2,41 @@ owner: linuxtux23
 repo: uptime
 
 workflowSchedule:
-	graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
+	 graphs: "0 0 * * *"
+	 responseTime: "0 23 * * *"
+	 staticSite: "0 1 * * *"
+	 summary: "0 0 * * *"
+	 updateTemplate: "0 0 * * *"
+	 updates: "0 3 * * *"
+     uptime: "*/10 * * * *"
 
 sites:
-	- name: Primary Domain
-    url: https://benedikt.tech
+    - name: Primary Domain
+  	  url: https://benedikt.tech
 
-  - name: Secondary Domain
-    url: https://benedikt-lohse.dev
+	- name: Secondary Domain
+      url: https://benedikt-lohse.dev
 
-  - name: Draco
-    url: http://$DRACO_SERVER_IP
-    expectedStatusCodes:
-      - 400
+    - name: Draco
+      url: http://$DRACO_SERVER_IP
+      expectedStatusCodes:
+      	- 400
 
-  - name: Storage Box
-    url: https://$MCLOUD_SERVER_IP
-    expectedStatusCodes:
-      - 401
+    - name: Storage Box
+	  url: https://$MCLOUD_SERVER_IP
+      expectedStatusCodes:
+       - 401
 
 status-website:
-  cname: status.benedikt.tech
-  logoUrl: https://www.benedikt.tech/static/logo_circle_web.png
-  favicon: https://www.benedikt.tech/static/favicon/favicon-32x32.png
-  name: Uptime
-  introTitle:
-  introMessage:
-  theme: night
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    cname: status.benedikt.tech
+    logoUrl: https://www.benedikt.tech/static/logo_circle_web.png
+    favicon: https://www.benedikt.tech/static/favicon/favicon-32x32.png
+    name: Uptime
+    introTitle:
+    introMessage:
+    theme: night
+    navbar:
+      - title: Status
+        href: /
+      - title: GitHub
+        href: https://github.com/$OWNER/$REPO
