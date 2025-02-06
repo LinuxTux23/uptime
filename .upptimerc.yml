@@ -30,7 +30,7 @@ sites:
 status-website:
   cname: status.benedikt.tech
   logoUrl: https://www.benedikt.tech/static/logo_circle_web.png
-	favicon: https://www.benedikt.tech/static/favicon/favicon-32x32.png
+  favicon: https://www.benedikt.tech/static/favicon/favicon-32x32.png
   name: Uptime
   introTitle:
   introMessage:
