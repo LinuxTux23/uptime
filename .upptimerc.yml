@@ -34,7 +34,7 @@ status-website:
   name: Uptime
   introTitle:
   introMessage:
-	theme: night
+  theme: night
   navbar:
     - title: Status
       href: /
