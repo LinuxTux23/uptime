@@ -1,3 +1,4 @@
+---
 owner: linuxtux23
 repo: uptime
 
@@ -11,18 +12,18 @@ workflowSchedule:
   uptime: "*/10 * * * *"
 
 sites:
- - name: Primary Domain
-   url: https://benedikt.tech
+  - name: Primary Domain
+    url: https://benedikt.tech
 
- - name: Secondary Domain
-   url: https://benedikt-lohse.dev
+  - name: Secondary Domain
+    url: https://benedikt-lohse.dev
 
- - name: Draco
-   url: http://$DRACO_SERVER_IP
-   expectedStatusCodes:
-    - 400
+  - name: Draco
+    url: http://$DRACO_SERVER_IP
+    expectedStatusCodes:
+      - 400
 
- - name: Storage Box
+  - name: Storage Box
     url: https://$MCLOUD_SERVER_IP
     expectedStatusCodes:
       - 401
